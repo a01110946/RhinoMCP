@@ -1,0 +1,15 @@
+{
+    "rhino_server": {
+        "host": "127.0.0.1",
+        "port": 8888
+    },
+    "mcp_server": {
+        "host": "127.0.0.1",
+        "port": 5000
+    },
+    "logging": {
+        "level": "INFO",
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        "file": null
+    }
+}
